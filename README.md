@@ -1,26 +1,25 @@
-# 🌐 Responsive Landing Page
+## 🌤️ Weather App
 
-The **Responsive Landing Page** is a front-end project built using HTML, CSS, and JavaScript. It features an interactive and aesthetically pleasing landing section with a scroll-reactive navigation menu, designed to enhance user experience across all device sizes.
+The *Weather App* is a web application that fetches and displays real-time weather data using a public weather API. Users can view the current weather conditions by either using their geolocation or entering a specific city or location.
 
 ---
 
 ## 🚀 Features
 
-- 🧭 **Sticky Navigation Bar**  
-  Remains fixed at the top of the screen and changes style on scroll
+- 📍 *Get Weather by Location*  
+  Automatically detects the user's current location (with permission)
 
-- 🎨 **Hover Effects**  
-  Navigation items highlight dynamically on hover
+- 🏙️ *City Search*  
+  Enter a city name to retrieve current weather information
 
-- 📱 **Responsive Layout**  
-  Adapts seamlessly to mobile, tablet, and desktop screen sizes
+- 🌡️ *Display Weather Data*  
+  Shows temperature, weather description, humidity, wind speed, and more
 
-- 💡 **Clean and Modern UI**  
-  Minimalistic design and smooth transitions using CSS
+- 🌐 *API Integration*  
+  Fetches real-time data from a weather API (e.g., OpenWeatherMap)
 
-- ⚙️ **JavaScript Scroll Interactivity**  
-  Dynamic background and font color changes triggered by user scrolling
-
+- 📱 *Responsive UI*  
+  Works smoothly on desktop and mobile devices
 ---
 
 ## 🛠️ Requirements
@@ -29,20 +28,20 @@ No installation is necessary. Simply open the HTML file in your browser.
 If you are cloning the repository, make sure the structure is maintained:
 
 ```bash
-git clone https://github.com/Jeetbaraiya/PRODIGY_WD_01.git
+git clone https://github.com/Jeetbaraiya/PRODIGY_WD_05.git
 ```
 
 ## 💻 How to Run
 
 
-Open landing-page.html in any modern web browser:
+Open weather.html in any modern web browser:
 ```bash
-start landing-page.html
+start weather.html
 ```
 
 ## 📷 Screenshots
 
-![image](https://github.com/user-attachments/assets/de0e3979-c9a5-4e4a-984c-0bce38e70f88)
+![Screenshot 2025-06-30 161302](https://github.com/user-attachments/assets/fe3d9dfb-e5a7-4e67-ad8d-058ff472220b)
 
 
 
