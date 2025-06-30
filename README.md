@@ -34,9 +34,9 @@ git clone https://github.com/Jeetbaraiya/PRODIGY_WD_05.git
 ## 💻 How to Run
 
 
-Open weather.html in any modern web browser:
+Open index.html in any modern web browser:
 ```bash
-start weather.html
+start index.html
 ```
 
 ## 📷 Screenshots
